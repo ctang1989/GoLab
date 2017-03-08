@@ -1,3 +1,5 @@
+// 值
+
 package main
 
 import "fmt"
@@ -14,9 +16,8 @@ func main() {
 	fmt.Println(!true)
 }
 
-
 /*
-$ go run values.go 
+$ go run values.go
 golang
 1+1 = 2
 7.0/3.0 = 2.3333333333333335

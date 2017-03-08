@@ -1,3 +1,5 @@
+// 常量
+
 package main
 
 import "fmt"
@@ -6,7 +8,7 @@ import "math"
 const s string = "constant"
 
 func main() {
-	
+
 	fmt.Println(s)
 
 	const n = 500000000
@@ -19,9 +21,8 @@ func main() {
 	fmt.Println(math.Sin(n))
 }
 
-
 /*
-$ go run constant.go 
+$ go run constant.go
 constant
 6e+11
 600000000000

@@ -1,9 +1,11 @@
+// 数组
+
 package main
 
 import "fmt"
 
 func main() {
-	
+
 	var a [5]int
 	fmt.Println("emp:", a)
 
@@ -25,9 +27,8 @@ func main() {
 	fmt.Println("2d: ", twoD)
 }
 
-
 /*
-$ go run arrays.go 
+$ go run arrays.go
 emp: [0 0 0 0 0]
 set: [0 0 0 0 100]
 get: 100

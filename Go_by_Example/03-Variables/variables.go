@@ -1,9 +1,11 @@
+// 变量
+
 package main
 
 import "fmt"
 
 func main() {
-	
+
 	var a string = "initial"
 	fmt.Println(a)
 
@@ -20,9 +22,8 @@ func main() {
 	fmt.Println(f)
 }
 
-
 /*
-$ go run variables.go 
+$ go run variables.go
 initial
 1 2
 true

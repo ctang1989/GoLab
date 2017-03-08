@@ -1,3 +1,5 @@
+// 你好，世界
+
 package main
 
 import "fmt"
@@ -5,7 +7,6 @@ import "fmt"
 func main() {
 	fmt.Println("hello world")
 }
-
 
 /*
 run the program

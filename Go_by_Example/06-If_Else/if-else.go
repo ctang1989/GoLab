@@ -1,9 +1,11 @@
+// if/else 分支
+
 package main
 
 import "fmt"
 
 func main() {
-	
+
 	if 7%2 == 0 {
 		fmt.Println("7 is even")
 	} else {
@@ -23,9 +25,8 @@ func main() {
 	}
 }
 
-
 /*
-$ go run if-else.go 
+$ go run if-else.go
 7 is odd
 8 is divisible by 4
 9 has 1 digit

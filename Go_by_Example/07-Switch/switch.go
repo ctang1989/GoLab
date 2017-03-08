@@ -1,10 +1,12 @@
+// 分支结构
+
 package main
 
 import "fmt"
 import "time"
 
 func main() {
-	
+
 	i := 2
 	fmt.Print("write ", i, " as ")
 	switch i {
@@ -32,9 +34,8 @@ func main() {
 	}
 }
 
-
 /*
-$ go run switch.go 
+$ go run switch.go
 write 2 as two
 it's a weekday
 it's before noon

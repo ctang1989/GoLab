@@ -1,9 +1,11 @@
+// 切片
+
 package main
 
 import "fmt"
 
 func main() {
-	
+
 	s := make([]string, 3)
 	fmt.Println("emp:", s)
 
@@ -46,9 +48,8 @@ func main() {
 	fmt.Println("2d: ", twoD)
 }
 
-
 /*
-$ go run slices.go 
+$ go run slices.go
 emp: [  ]
 set: [a b c]
 get: c

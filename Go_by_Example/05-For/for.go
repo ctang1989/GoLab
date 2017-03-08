@@ -1,9 +1,11 @@
+// For循环
+
 package main
 
 import "fmt"
 
 func main() {
-	
+
 	i := 1
 	for i <= 3 {
 		fmt.Println(i)
@@ -20,9 +22,8 @@ func main() {
 	}
 }
 
-
 /*
-$ go run for.go 
+$ go run for.go
 1
 2
 3
