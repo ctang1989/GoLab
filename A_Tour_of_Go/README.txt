@@ -1,3 +1,3 @@
-A Tour of Go / Go 指南
-英文：https://tour.golang.org/list
-中文：https://tour.go-zh.org/list
+A Tour of Go / Go 鎸囧崡
+鑻辨枃锛歨ttps://tour.golang.org/list
+涓枃锛歨ttps://tour.go-zh.org/list
