@@ -12,4 +12,4 @@ import (
 	"github.com/ysqi/beego"
 )
 
-// https://yushuangqi.com/book/gotour/basics/import.html
+// https://tour.golang.org/basics/2

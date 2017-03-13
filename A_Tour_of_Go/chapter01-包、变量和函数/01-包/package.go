@@ -9,4 +9,4 @@ func main() {
 	fmt.Println("My favorite number is", rand.Intn(10))
 }
 
-// https://yushuangqi.com/book/gotour/basics/package.html
+// https://tour.golang.org/basics/1
